@@ -8,17 +8,24 @@ Active Directory (AD) stands out as a widely recognized directory service from M
 <h2>Summary of my next steps throughout the project</h2>
 
 Step 1: Oracle VirtualBox Installation
+
 •	Start by visiting the official Oracle VirtualBox website at https://www.virtualbox.org/.
+
 •	Download the VirtualBox installer compatible with your operating system (e.g., Windows, macOS, Linux).
+
 •	Execute the installer and carefully follow the installation instructions provided to complete the VirtualBox setup.
 <br />
 
 Step 2: Acquire Windows 10 and Server 2019 ISOs
+
 •	Obtain the necessary Windows 10 and Windows Server 2019 ISO files from trusted sources, such as the official Microsoft website.
+
 •	Save these ISO files to a location on your local computer.
+
 <br />
 
 Step 3: Setting Up the Domain Controller Virtual Machine 
+
 1.	Launch Oracle VirtualBox.
 2.	Create a new virtual machine by clicking "New."
 3.	Assign a name to your virtual machine, for example, "DomainController."
