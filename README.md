@@ -91,7 +91,10 @@ Following these steps, you will successfully establish a virtual network environ
 
 - <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
+<h2 align="center">Program walk-through:</h2>
+<b>The network diagram that I'm going to use for this project</b> <br/> 
+<img src="https://ibb.co/m8d0JyQ" height="80%" width="80%" alt="Network Diagram"/>
+
 
 
 
