@@ -91,8 +91,11 @@ Following these steps, you will successfully establish a virtual network environ
 
 - <b>Windows 10</b> 
 
-<h2 align="center">Program walk-through:</h2>
-<b>The network diagram that I'm going to use for this project</b> <br/> 
+<h2 align="center">The network diagram I used for this project </h2>
+
+![layout](https://github.com/KEndrw/Active-Directory-Lab/assets/143989295/77b8a798-6767-4ca4-90d5-c67fed98e47d)
+
+ 
 
 
 
