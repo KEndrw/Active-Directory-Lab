@@ -79,7 +79,7 @@ Step 9: Joining the Windows 10 Client to the Domain
 3.	Access the system using one of the domain user accounts you created earlier.
 
 <br />
-Following these steps, you will successfully establish a virtual network environment featuring a domain controller, Active Directory, DHCP services, and a Windows 10 client. Additionally, you will gain valuable experience in PowerShell scripting and have a fully functional environment for further exploration and learning.
+
 
 
 <h2>Languages and Utilities Used</h2>
